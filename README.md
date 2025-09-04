@@ -1,0 +1,1 @@
+Hoje dia 04/09/2025 deixo aqui registrado tudo o que construi em aprendizado da linguagem Python. Embora de momento possa parecer algo muito simples, superficial, iniciante, espero que lá na frente possa ter válido muito a pena.
